@@ -11,4 +11,4 @@
 Если вам надо со мной связаться<!-- slightdelayhere-->, можете написать мне на почту <!-- longlonglongcomment --><a href="1@yandex.ru">мой ящик</a>.
 
 <p>Удачи!</p>
-<span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$ </span>
+<span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> 
