@@ -3,7 +3,7 @@ body {
 }
 
 #console {
-	font-family: courier, monospace;
+	font-family: monospace;
 	color: #fff;
 	width:750px;
 	margin-left:auto;
