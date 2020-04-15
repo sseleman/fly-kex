@@ -2,9 +2,9 @@
 <span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->sseleman.txt<br/><br/>
 Любимая цитата, "<span id="k">while read L; do S=$((($C-${#L})/2+${#L}))</span>". <!-- sjkfhskjf -->
 
-Привет! Это мой сайт портфолио, свёрстанный в стиле терминала.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Вы здесь сможете найти информацию обо мне.</p>
+Привет! Это мой сайт портфолио, свёрстанный в стиле терминала.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Здесь вы (не)сможете найти информацию обо мне.</p>
 <p>Я sseleman.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> Создал вот этот сайт, так как люблю писать скрипты, а ещё у меня есть <a href="link"> страничка на hh</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p> Создал этот сайт, так как люблю писать скрипты, а ещё у меня есть <a href="link"> страничка на hh</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>Когда-нибудь напишу побольше о себе. <br><br><br>Пока что вот ссылки на проекты, которые мне интересны: <a href="link"> тынц</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p> И еще мне нравится то, что делают эти люди: <br> <a href="link1">Профиль1</a>, <br> <a href="link2">Профиль2</a> и <br> <a href="link3">Профиль3</a>.</p>
 
