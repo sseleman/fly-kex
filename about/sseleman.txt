@@ -3,7 +3,7 @@
 Любимая цитата, "<span id="k">while read L; do S=$((($C-${#L})/2+${#L}))</span>". <!-- sjkfhskjf -->
 
 Привет! Это мой сайт портфолио, свёрстанный в стиле терминала.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Здесь вы (не)сможете найти информацию обо мне.</p>
-<p>Меня зовут sseleman.<!-- bitlagbitlagbitlagbitlagbitlagbitlag -->Создал этот сайт, так как люблю писать скрипты, а ещё у меня есть <a href="https://openmedia.io/files/2020/01/photo_2020-01-22-15.28.07.jpeg"> страничка на hh</a>. <!-- delaydelaydelaydelaydelaydelaydelay -->Когда-нибудь напишу побольше о себе. <br><br><br>Пока что вот ссылки на проекты, которые мне интересны: <a href="https://github.com/geohot/corona"> тынц</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p>Меня зовут sseleman.<!-- bitlagbitlagbitlagbitlagbitlagbitlag -->Создал этот сайт, так как люблю писать скрипты, а ещё у меня есть <a href="https://openmedia.io/files/2020/01/photo_2020-01-22-15.28.07.jpeg"> страничка на hh</a>. <!-- delaydelaydelaydelaydelaydelaydelay -->Когда-нибудь напишу побольше о себе. <br><br><br>Пока что вот ссылки на проекты, которые мне интересны: <a href="/coollinks"> тынц</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p> И еще мне нравится то, что делают эти люди: <br> <a href="pics/59426477_2401935983359479_78101708240060416_n.jpg">Профиль1</a>, <br> <a href="pics/66857202_10214140264637408_5827087219742998528_n.jpg">Профиль2</a> и <br> <a href="pics/78309554_788889874906538_1122784548019503104_n.jpg">Профиль3</a>.</p>
 
 Если вам надо со мной связаться<!-- slightdelayhere-->, можете написать мне на почту <!-- longlonglongcomment --><a href="1@yandex.ru">мой ящик</a>.
