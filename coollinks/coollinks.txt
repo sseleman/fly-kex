@@ -1,6 +1,6 @@
 <span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> cd /<a href="/terminal">terminal</a>/<!-- laglaglaglaglaglag -->coollinks
 <span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> ls -a <!-- laglaglaglaglaglaglaglaglag --><br/><br/>
-<a href="https://github.com/geohot/corona">Reverse engineering the coronavirus</a><!-- bitlagbitlagbitlagbitlagbitlagbitlag --></p>
+<a href="https://github.com/geohot/corona">Reverse engineering the coronavirus</a><!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <a href="https://www.drjudystone.com/politics-science-and-other-assorted-musings/">Dr. Judy Stone coronavirus tidbits</a><!-- bitlagbitlagbitlagbitlagbitlagbitlag --></p>
 </p>
 <span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> 
