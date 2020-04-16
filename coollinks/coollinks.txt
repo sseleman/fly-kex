@@ -1,5 +1,5 @@
-<span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> cd /terminal/coollinks<!-- laglaglaglaglaglag -->about
+<span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> cd /<a href="/terminal">terminal</a>/<!-- laglaglaglaglaglag -->coollinks
 <span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> ls -a <!-- laglaglaglaglaglaglaglaglag --><br/><br/>
-<a href="https://github.com/geohot/corona">corona.url</a>corona<!-- bitlagbitlagbitlagbitlagbitlagbitlag --></p>
+-rw-r--r--   1 github.io  sseleman  174634 24 янв 15:35 <a href="https://github.com/geohot/corona">corona.url</a><!-- bitlagbitlagbitlagbitlagbitlagbitlag --></p>
 </p>
 <span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> 
