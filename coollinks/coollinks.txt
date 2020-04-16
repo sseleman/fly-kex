@@ -1,5 +1,5 @@
 <span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> cd /terminal/coollinks<!-- laglaglaglaglaglag -->
-<span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> ls -a | nl<!-- laglaglaglaglaglaglaglaglag --><p>#мои ссылки
+<span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> ls -a | nl<!-- laglaglaglaglaglaglaglaglag --> #мои ссылки<p>
 1 <a href="https://github.com/geohot/corona">Reverse engineering the coronavirus</a><!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 2 <a href="https://www.drjudystone.com/politics-science-and-other-assorted-musings/">Dr. Judy Stone coronavirus tidbits</a><!-- bitlagbitlagbitlagbitlagbitlagbitlag --></p>
-<span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> <a href="/terminal">cd /terminal</a><!-- laglaglaglaglaglag -->#вернуться в начало
+<span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> <a href="/terminal">cd /terminal</a><!-- laglaglaglaglaglag --> #вернуться в начало
