@@ -2,11 +2,9 @@
 <span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->sseleman.txt<br/><br/>
 Любимая цитата: "<span id="k">Мемекс будет построен на ассоциативных связях, следах</span>". <!-- sjkfhskjf -->
 
-Приветствую всех и добро пожаловать на мой сайт-портфолио. Он свёрстан в эстетике олдскульного терминала. <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>Здесь вы (не)сможете найти информацию обо мне.</p>
-<p>Меня зовут sseleman.<!-- bitlagbitlagbitlagbitlagbitlagbitlag -->Создал этот сайт, так как люблю писать скрипты.<!-- delaydelaydelaydelaydelaydelaydelay -->. Есть <a href="https://openmedia.io/files/2020/01/photo_2020-01-22-15.28.07.jpeg"> страничка на hh</a>. Когда-нибудь напишу побольше о себе. <br><br><br> А пока что вот ссылки на проекты, которые мне показались интересными: <a href="/terminal/coollinks"> тынц</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+Приветствую всех и добро пожаловать на мой сайт-портфолио.<!-- laglaglaglaglaglaglaglaglag --> Он свёрстан в эстетике олдскульного терминала. <!-- laglaglaglaglaglaglaglaglaglaglaglag --><br><br><br>Здесь вы (не)сможете найти информацию обо мне.</p>
+<p>Меня зовут sseleman.<!-- bitlagbitlagbitlagbitlagbitlagbitlag -->Создал этот сайт, так как люблю писать скрипты.<!-- delaydelaydelaydelaydelaydelaydelay --> Есть <a href="https://openmedia.io/files/2020/01/photo_2020-01-22-15.28.07.jpeg"> страничка на hh</a>. Когда-нибудь напишу побольше о себе. <br><br><br> А пока что вот ссылки, которые мне показались интересными: <a href="/terminal/coollinks"> тынц</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p> Другие профили: <br> <a href="pics/59426477_2401935983359479_78101708240060416_n.jpg">Профиль1</a>, <br> <a href="pics/66857202_10214140264637408_5827087219742998528_n.jpg">Профиль2</a> и <br> <a href="pics/78309554_788889874906538_1122784548019503104_n.jpg">Профиль3</a>.</p>
 <p>Удачи!</p>
-Если вам надо со мной связаться<!-- slightdelayhere-->, можете написать в issue:
-<p>
+Если вам надо со мной связаться<!-- slightdelayhere-->, можете написать в issue:<p>
 <span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> <!-- longlonglongcomment --><a href="https://github.com/sseleman/terminal/issues/1#issue-600696576">mail sseleman@github.io < dev/null</a>
