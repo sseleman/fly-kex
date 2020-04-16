@@ -1,4 +1,4 @@
-<span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> cd terminal/<!-- laglaglaglaglaglag -->about
+<span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> cd /terminal/<!-- laglaglaglaglaglag -->about
 <span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->sseleman.txt<br/><br/>
 Любимая цитата, "<span id="k">while read L; do S=$((($C-${#L})/2+${#L}))</span>". <!-- sjkfhskjf -->
 
