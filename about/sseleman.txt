@@ -8,4 +8,4 @@
 </p>
 <p>Удачи!
 </p>
-Если вам надо со мной связаться<!-- slightdelayhere-->, можете написать в issue: <span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> <!-- longlonglongcomment --><a href="https://github.com/sseleman/terminal/issues/1#issue-600696576">mail sseleman@github.io < dev/null</a>
+Если вам надо со мной связаться<!-- slightdelayhere-->, можете написать в issue:<br/><span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> <!-- longlonglongcomment --><a href="https://github.com/sseleman/terminal/issues/1#issue-600696576">mail sseleman@github.io < dev/null</a>
