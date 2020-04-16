@@ -7,4 +7,4 @@
 <p> И еще мне нравится то, что делают эти люди: <br> <a href="pics/59426477_2401935983359479_78101708240060416_n.jpg">Профиль1</a>, <br> <a href="pics/66857202_10214140264637408_5827087219742998528_n.jpg">Профиль2</a> и <br> <a href="pics/78309554_788889874906538_1122784548019503104_n.jpg">Профиль3</a>.</p>
 <p>Удачи!</p>
 Если вам надо со мной связаться<!-- slightdelayhere-->, можете написать мне на почту:
-<span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> <!-- longlonglongcomment --><a href="1@yandex.ru">mail *******@yandex.ru < dev/null</a>.
+<span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> <!-- longlonglongcomment --><a href="1@yandex.ru">mail *******@yandex.ru < dev/null</a>
