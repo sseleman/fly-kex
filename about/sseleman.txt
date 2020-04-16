@@ -1,6 +1,6 @@
 <span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> cd /terminal/<!-- laglaglaglaglaglag -->about
 <span id="a">sseleman@github.io</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->sseleman.txt<br/><br/>
-Любимая цитата: "<span id="k">Мемекс будет построен на ассоциативных связях, следах</span>". <!-- sjkfhskjf -->
+Любимая цитата: <span id="k">Мемекс будет построен на ассоциативных связях, следах. Веневар Буш.</span> <!-- sjkfhskjf -->
 
 Приветствую всех и добро пожаловать на мой сайт-портфолио.<!-- laglaglaglaglaglaglaglaglag --> Он свёрстан в эстетике олдскульного терминала. <!-- laglaglaglaglaglaglaglaglaglaglaglag --><br><br><br>Здесь вы (не)сможете найти информацию обо мне.</p>
 <p>Меня зовут sseleman.<!-- bitlagbitlagbitlagbitlagbitlagbitlag -->Создал этот сайт, так как люблю писать скрипты.<!-- delaydelaydelaydelaydelaydelaydelay --> Есть <a href="https://openmedia.io/files/2020/01/photo_2020-01-22-15.28.07.jpeg"> страничка на hh</a>. Когда-нибудь напишу побольше о себе. <br><br><br> А пока что вот ссылки, которые мне показались интересными: <a href="/terminal/coollinks"> тынц</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
